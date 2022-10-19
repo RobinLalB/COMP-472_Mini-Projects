@@ -1,0 +1,15 @@
+Base Decision Tree for sentiments with alpha=1 
+[[1774  626  938  454]
+ [ 867 4622 1561  702]
+ [1542 2546 5192 1795]
+ [ 899 1397 2551 6898]]
+              precision    recall  f1-score   support
+
+   ambiguous       0.35      0.47      0.40      3792
+    negative       0.50      0.60      0.55      7752
+     neutral       0.51      0.47      0.49     11075
+    positive       0.70      0.59      0.64     11745
+
+    accuracy                           0.54     34364
+   macro avg       0.51      0.53      0.52     34364
+weighted avg       0.55      0.54      0.54     34364
