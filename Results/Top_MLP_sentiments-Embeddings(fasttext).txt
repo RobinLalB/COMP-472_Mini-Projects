@@ -1,0 +1,16 @@
+Top Multi-Layered Perceptron for sentiments from the embedded Reddit posts with the following parameters: 
+{'activation': 'relu', 'hidden_layer_sizes': (30, 50), 'max_iter': 8, 'solver': 'adam'}
+[[1116  779 1206  691]
+ [ 240 4238 2016 1258]
+ [ 672 2504 5192 2706]
+ [ 212 1560 2268 7704]]
+              precision    recall  f1-score   support
+
+   ambiguous       0.50      0.29      0.37      3792
+    negative       0.47      0.55      0.50      7752
+     neutral       0.49      0.47      0.48     11074
+    positive       0.62      0.66      0.64     11744
+
+    accuracy                           0.53     34362
+   macro avg       0.52      0.49      0.50     34362
+weighted avg       0.53      0.53      0.53     34362

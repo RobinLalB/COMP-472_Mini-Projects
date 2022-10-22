@@ -1,7 +1,3 @@
-# COMP-472_Mini-Projects
-
-https://github.com/RobinLalB/COMP-472_Mini-Projects
-
 Instructions:
 - Open the .ipynb notebook in Jupyter
 - The code can be ran in one go by selecting "restart the kernel, then re-run the whole notebook"

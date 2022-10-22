@@ -1,0 +1,15 @@
+Base Multi-Layered Perceptron for sentiments from the embedded Reddit posts with default parameters 
+[[1190  842 1135  625]
+ [ 264 4752 1708 1028]
+ [ 714 2854 4931 2575]
+ [ 260 1612 2130 7742]]
+              precision    recall  f1-score   support
+
+   ambiguous       0.49      0.31      0.38      3792
+    negative       0.47      0.61      0.53      7752
+     neutral       0.50      0.45      0.47     11074
+    positive       0.65      0.66      0.65     11744
+
+    accuracy                           0.54     34362
+   macro avg       0.53      0.51      0.51     34362
+weighted avg       0.54      0.54      0.54     34362
