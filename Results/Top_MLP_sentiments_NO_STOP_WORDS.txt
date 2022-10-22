@@ -1,0 +1,15 @@
+Top Multi-Layered Perceptron for sentiments with the following parameters: 
+[[ 946  717 1415  714]
+ [ 281 4671 1732 1068]
+ [ 656 2513 5357 2549]
+ [ 342 1165 2013 8225]]
+              precision    recall  f1-score   support
+
+   ambiguous       0.43      0.25      0.31      3792
+    negative       0.52      0.60      0.56      7752
+     neutral       0.51      0.48      0.50     11075
+    positive       0.66      0.70      0.68     11745
+
+    accuracy                           0.56     34364
+   macro avg       0.53      0.51      0.51     34364
+weighted avg       0.55      0.56      0.55     34364
