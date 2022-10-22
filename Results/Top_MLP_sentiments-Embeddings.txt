@@ -1,0 +1,15 @@
+Top Multi-Layered Perceptron for sentiments from the embedded Reddit posts with the following parameters: 
+[[ 608  638 1852  691]
+ [ 187 3738 2676 1148]
+ [ 419 1867 6369 2412]
+ [ 212 1320 2894 7315]]
+              precision    recall  f1-score   support
+
+   ambiguous       0.43      0.16      0.23      3789
+    negative       0.49      0.48      0.49      7749
+     neutral       0.46      0.58      0.51     11067
+    positive       0.63      0.62      0.63     11741
+
+    accuracy                           0.52     34346
+   macro avg       0.50      0.46      0.47     34346
+weighted avg       0.52      0.52      0.52     34346
