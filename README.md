@@ -16,6 +16,3 @@ Instructions:
 - To run the 3.8 - Different embedding models version(s):
 	- Uncomment one of the gensim embedding models in the cell following "Embeddings" and comment out the two others
 	- Re-run the remaining cells
-
-- Notes on MLPs:
-	- It is possible to interrupt the Base MLPs to get results faster.
