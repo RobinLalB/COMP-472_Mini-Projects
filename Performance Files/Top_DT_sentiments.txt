@@ -1,11 +1,12 @@
-Top Decision Tree for sentiments with alpha=1 
-[[1045  471 1831  445]
- [ 417 3131 3382  822]
- [ 722 1448 7281 1624]
- [ 484  903 3890 6468]]
+Top Decision Tree for sentiments with the following parameters: 
+{'criterion': 'gini', 'max_depth': 120, 'min_samples_split': 40}
+[[1036  469 1845  442]
+ [ 408 3134 3399  811]
+ [ 712 1452 7293 1618]
+ [ 489  901 3908 6447]]
               precision    recall  f1-score   support
 
-   ambiguous       0.39      0.28      0.32      3792
+   ambiguous       0.39      0.27      0.32      3792
     negative       0.53      0.40      0.46      7752
      neutral       0.44      0.66      0.53     11075
     positive       0.69      0.55      0.61     11745
