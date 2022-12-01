@@ -2,3 +2,9 @@ Puzzle number	Algorithm	Heuristic	Length of solution	Length of search path	Execu
 1			UCS		NA		10				1835				38.74
 0			GBFS		h1		10				115				 0.51
 0			A\A*		h1		10				590				 5.00
+0			GBFS		h1		5				26				 0.16
+0			GBFS		h4		5				14				 0.09
+0			GBFS		h4		NA				6026				287.14
+1			UCS		NA		5				1269				24.46
+0			GBFS		h4		5				14				 0.12
+0			A\A*		h1		5				406				 4.05
