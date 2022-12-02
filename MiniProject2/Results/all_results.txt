@@ -8,3 +8,13 @@ Puzzle number	Algorithm	Heuristic	Length of solution	Length of search path	Execu
 1			UCS		NA		5				1269				24.46
 0			GBFS		h4		5				14				 0.12
 0			A\A*		h1		5				406				 4.05
+0			A\A*		h4		4				176				 1.12
+0			A\A*		h4		4				65				 0.12
+0			A\A*		h4		9				817				11.41
+0			GBFS		h4		11				321				 2.07
+0			GBFS		h4		4				8				 0.04
+0			A\A*		h4		9				817				11.28
+0			GBFS		h4		11				206				 0.78
+0			A\A*		h4		9				498				 3.78
+0			A\A*		h4		12				642				 4.73
+0			A\A*		h4		5				106				 0.43

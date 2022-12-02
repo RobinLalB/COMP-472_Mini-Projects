@@ -37,15 +37,15 @@ Z.B.CCZ.B...AAD..EFFD..EOOO.GH....GH
 ..ZZOP.QQQOP.BAAOP.B.C.....CDD...RRR
 ZZOOO.....B...AAB...C.DD..C.EE.PPP..
 ..OP....OP..AAOP....ZZ...B..C..BDDC.
-.OOOZZ...BC.AA.BC....PPP............
-..ZZO.....O.AA..OB.....BC.DDEEC.....
-..Z..O..Z..OAAB..O.CBPPPDC.EFFDGGE..
-Z..BCCZODB...ODAAE.OPPPEQQQ.FG....FG
-.ZZOOO....B.AA..B...CCDD...PPP......
-ZZBBCDOOOECD.AAE.F..G..F..GPPP....HH
-.ZZBCC...B....AAD.....D..OOOE.....E.
-.ZBBC..Z..C.AAD.O...D.O...E.O...E...
-....O.ZB..OCZBAAOC.DPEFF.DPE....P...
-OOO.PQ....PQ..AAPQ........ZRRR..ZBB.
-.ZZ.....BC..AABC...DD...............
-..O.ZZ..O.BBAAO..C.....C...DEE...D.. A4
+.OOOZZ...BC.AA.BC....PPP............ O3 Z3 B3 C3 A3 O3 D3 E3
+..ZZO.....O.AA..OB.....BC.DDEEC..... Z21 O9 A5
+..Z..O..Z..OAAB..O.CBPPPDC.EFFDGGE.. O12 G14 E8
+Z..BCCZODB...ODAAE.OPPPEQQQ.FG....FG Z19 C5 A5
+.ZZOOO....B.AA..B...CCDD...PPP...... Z2
+ZZBBCDOOOECD.AAE.F..G..F..GPPP....HH Z20 G2
+.ZZBCC...B....AAD.....D..OOOE.....E. B17 A6
+.ZBBC..Z..C.AAD.O...D.O...E.O...E... A7 O3
+....O.ZB..OCZBAAOC.DPEFF.DPE....P... O5 Z6
+OOO.PQ....PQ..AAPQ........ZRRR..ZBB. O10 P10 Q10 A10 Z4 B1
+.ZZ.....BC..AABC...DD............... Z2 B2 C2 D2
+..O.ZZ..O.BBAAO..C.....C...DEE...D.. A3
