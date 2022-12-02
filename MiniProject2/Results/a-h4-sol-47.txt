@@ -1,0 +1,35 @@
+Initial board configuration: ....O.ZB..OCZBAAOC.DPEFF.DPE....P...
+
+....O.
+ZB..OC
+ZBAAOC
+.DPEFF
+.DPE..
+..P...
+
+Car Fuel Available: O:5, Z:6, B:100, C:100, A:100, D:100, P:100, E:100, F:100
+
+Runtime: 21.674058437347412 seconds
+Number of moves: 11
+Search path length: 2274 states
+Solution path: C up 1; Z up 1; B up 1; A left 2; D down 1; E up 3; P up 3; F left 4; O down 3; P down 3; A right 4; 
+
+C	up	1	99	....OCZB..OCZBAAO..DPEFF.DPE....P...
+Z	up	1	5	Z...OCZB..OC.BAAO..DPEFF.DPE....P...
+B	up	1	99	ZB..OCZB..OC..AAO..DPEFF.DPE....P...
+A	left	2	98	ZB..OCZB..OCAA..O..DPEFF.DPE....P...
+D	down	1	99	ZB..OCZB..OCAA..O...PEFF.DPE...DP...
+E	up	3	97	ZB.EOCZB.EOCAA..O...P.FF.DP....DP...
+P	up	3	97	ZBPEOCZBPEOCAAP.O.....FF.D.....D....
+F	left	4	96	ZBPEOCZBPEOCAAP.O.FF.....D.....D....
+O	down	3	2	ZBPE.CZBPE.CAAP...FF..O..D..O..D..O.
+P	down	3	94	ZB.E.CZB.E.CAA....FFP.O..DP.O..DP.O.
+A	right	4	94	ZB.E.CZB.E.C....AAFFP.O..DP.O..DP.O.
+
+ZB.E.C
+ZB.E.C
+....AA
+FFP.O.
+.DP.O.
+.DP.O.
+
