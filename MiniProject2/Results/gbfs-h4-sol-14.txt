@@ -9,7 +9,7 @@ PGQQQH
 
 Car Fuel Available: Z:100, B:100, O:100, C:100, D:100, P:100, A:100, E:100, F:100, G:100, Q:100, H:100
 
-Runtime: 0.7458651065826416 seconds
+Runtime: 0.7755305767059326 seconds
 Number of moves: 24
 Search path length: 224 states
 Solution path: C down 1; D left 1; P down 1; A left 1; B down 1; O left 1; F up 2; B down 1; O left 1; D left 1; E up 2; H up 2; Q right 1; B down 1; D left 1; A right 1; Z down 1; O left 1; C up 2; A right 2; B up 1; Q left 1; H down 1; A right 1; 

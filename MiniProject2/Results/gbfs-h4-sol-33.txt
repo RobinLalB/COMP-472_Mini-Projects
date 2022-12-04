@@ -9,7 +9,7 @@ OOO.GH
 
 Car Fuel Available: Z:100, B:100, C:100, A:100, D:100, E:100, F:100, O:100, G:100, H:100
 
-Runtime: 1.1049232482910156 seconds
+Runtime: 1.2779290676116943 seconds
 Number of moves: 21
 Search path length: 370 states
 Solution path: C left 1; E up 2; G up 2; H up 2; O right 3; D down 2; A right 1; F right 1; Z down 3; A left 1; B down 1; C left 1; G up 2; C left 2; B up 1; A right 3; F right 2; D up 2; O left 1; H down 1; A right 1; 

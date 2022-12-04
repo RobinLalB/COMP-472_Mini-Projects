@@ -9,7 +9,7 @@ JJPPP.
 
 Car Fuel Available: O:100, Z:100, B:100, C:100, D:100, E:100, F:100, A:100, G:100, H:100, I:100, J:100, P:100
 
-Runtime: 1.3752145767211914 seconds
+Runtime: 1.274468183517456 seconds
 Number of moves: 19
 Search path length: 368 states
 Solution path: D down 1; C right 1; E up 1; G up 1; I right 4; G down 1; A right 1; Z down 3; P right 1; J right 1; O down 3; A left 2; B down 3; E down 1; C left 3; D up 1; E up 1; F up 1; A right 4; 

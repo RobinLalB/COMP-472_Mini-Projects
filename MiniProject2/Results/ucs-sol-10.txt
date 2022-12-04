@@ -9,7 +9,7 @@ I...KK
 
 Car Fuel Available: Z:100, B:100, C:100, O:100, D:100, E:100, A:100, F:100, G:100, H:100, I:100, J:100, K:100
 
-Runtime: 24.89418864250183 seconds
+Runtime: 26.393360137939453 seconds
 Number of moves: 19
 Search path length: 3570 states
 Solution path: J right 2; E down 1; A left 3; E up 1; J left 2; K left 3; H down 1; G right 1; B down 4; C left 1; G left 1; D down 1; O right 3; E up 2; A right 3; E down 2; O left 1; D up 2; A right 1; 

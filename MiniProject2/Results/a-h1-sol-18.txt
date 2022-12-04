@@ -9,7 +9,7 @@ BCAAOE
 
 Car Fuel Available: Z:100, O:100, B:100, C:100, D:100, E:100, A:100, P:100, F:100, G:100, Q:100
 
-Runtime: 52.255940198898315 seconds
+Runtime: 59.06267046928406 seconds
 Number of moves: 16
 Search path length: 3906 states
 Solution path: E up 1; O down 1; Z right 3; B up 1; C up 1; A left 2; F up 2; G left 2; O down 1; D right 1; F up 2; A right 2; P up 1; Q left 2; O down 1; A right 2; 

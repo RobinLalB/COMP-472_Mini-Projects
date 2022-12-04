@@ -9,7 +9,7 @@ PPPC.D
 
 Car Fuel Available: Z:100, O:100, A:100, B:100, C:100, D:100, P:100
 
-Runtime: 0.4420158863067627 seconds
+Runtime: 0.46431565284729004 seconds
 Number of moves: 6
 Search path length: 119 states
 Solution path: B left 1; C up 1; D up 1; P right 3; O down 3; A right 4; 

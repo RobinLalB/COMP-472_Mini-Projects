@@ -9,7 +9,7 @@ ZZ..O.
 
 Car Fuel Available: Z:100, O:100, B:100, C:100, A:100, D:100, E:100, F:100
 
-Runtime: 9.373754024505615 seconds
+Runtime: 9.792696952819824 seconds
 Number of moves: 8
 Search path length: 1198 states
 Solution path: C up 1; B left 2; A left 2; D left 3; E up 4; F left 1; O down 3; A right 4; 

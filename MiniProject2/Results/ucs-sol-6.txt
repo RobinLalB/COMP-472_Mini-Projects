@@ -9,7 +9,7 @@ B.CPPP
 
 Car Fuel Available: O:100, Z:100, A:100, B:100, C:100, P:100
 
-Runtime: 5.383257865905762 seconds
+Runtime: 5.7534050941467285 seconds
 Number of moves: 6
 Search path length: 1170 states
 Solution path: Z up 1; B up 1; C up 1; P left 3; O down 3; A right 3; 

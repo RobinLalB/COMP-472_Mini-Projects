@@ -9,7 +9,7 @@ OOO.PQ
 
 Car Fuel Available: O:10, P:10, Q:10, A:10, Z:4, R:100, B:1
 
-Runtime: 0.4978210926055908 seconds
+Runtime: 0.5198335647583008 seconds
 Number of moves: 9
 Search path length: 191 states
 Solution path: A left 2; Z up 3; R left 2; Q down 3; B left 1; P down 3; O right 3; Z up 1; A right 4; 

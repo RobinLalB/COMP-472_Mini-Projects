@@ -9,7 +9,7 @@ HHG.II
 
 Car Fuel Available: Z:100, B:100, C:100, D:100, E:100, A:100, O:100, P:100, F:100, G:100, H:100, I:100
 
-Runtime: 141.75280952453613 seconds
+Runtime: 159.8502266407013 seconds
 Number of moves: 23
 Search path length: 7971 states
 Solution path: A right 1; Z down 1; B left 1; P left 1; C down 2; D left 2; E left 3; C up 1; O up 2; F up 2; P right 3; Z down 2; E left 1; A left 1; G up 3; P left 2; F down 2; I left 2; O down 3; D right 2; C up 1; G up 1; A right 4; 

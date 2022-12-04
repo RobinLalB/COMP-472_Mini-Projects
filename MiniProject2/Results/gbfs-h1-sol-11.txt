@@ -9,7 +9,7 @@ AA.B.D
 
 Car Fuel Available: Z:100, B:100, C:100, A:100, D:100, E:100, F:100
 
-Runtime: 0.13071990013122559 seconds
+Runtime: 0.13824701309204102 seconds
 Number of moves: 8
 Search path length: 71 states
 Solution path: Z left 2; B up 1; E up 1; F left 1; D down 1; F left 2; E down 1; A right 4; 

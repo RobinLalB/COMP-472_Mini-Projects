@@ -9,7 +9,7 @@ AAB.CZ
 
 Car Fuel Available: O:100, Z:100, A:100, B:100, C:100, P:100, D:100
 
-Runtime: 0.8186321258544922 seconds
+Runtime: 0.8191606998443604 seconds
 Number of moves: 5
 Search path length: 208 states
 Solution path: Z up 1; C up 2; D right 1; B down 1; A right 4; 

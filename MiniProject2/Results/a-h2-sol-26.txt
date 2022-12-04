@@ -9,7 +9,7 @@ FF.DGG
 
 Car Fuel Available: Z:100, O:100, B:100, P:100, Q:100, C:100, A:100, D:100, E:100, F:100, G:100
 
-Runtime: 12.633300542831421 seconds
+Runtime: 13.263211011886597 seconds
 Number of moves: 14
 Search path length: 1775 states
 Solution path: C down 1; F right 1; Q down 1; A left 3; D up 2; E left 1; G left 1; O down 3; Z left 1; P right 1; C up 3; E left 2; D down 1; A right 4; 

@@ -9,7 +9,7 @@ GGH.FP
 
 Car Fuel Available: O:100, Z:100, B:100, C:100, D:100, E:100, A:100, F:100, G:100, H:100, P:100, I:100, J:100, K:100
 
-Runtime: 313.0123805999756 seconds
+Runtime: 337.62086606025696 seconds
 Number of moves: 31
 Search path length: 11130 states
 Solution path: D down 1; E left 2; F up 1; P up 2; I right 1; J left 1; H down 1; K right 1; D down 2; A right 1; G right 3; Z down 3; H up 1; J right 1; O down 3; B left 2; C left 1; E left 2; A left 2; H up 3; P up 1; G right 1; D up 3; G left 2; I left 2; F down 2; K left 1; P down 3; C right 1; D up 1; A right 4; 

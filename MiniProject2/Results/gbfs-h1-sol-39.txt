@@ -13,4 +13,4 @@ Car Fuel Available: O:3, Z:3, B:3, C:3, A:3, P:100
 
  Sorry, could not solve the puzzle as specified.
 Error: no solution found
-Runtime: 0.4928114414215088 seconds--------------------------------------------------------------------------------
+Runtime: 0.5620615482330322 seconds--------------------------------------------------------------------------------

@@ -9,7 +9,7 @@ DGGE..
 
 Car Fuel Available: Z:100, O:12, A:100, B:100, C:100, P:100, D:100, E:8, F:100, G:14
 
-Runtime: 1.99031400680542 seconds
+Runtime: 2.3111259937286377 seconds
 Number of moves: 12
 Search path length: 496 states
 Solution path: B down 1; A right 2; C up 3; A left 1; D up 3; G left 1; B down 1; P left 3; E up 4; F left 1; O down 3; A right 3; 

@@ -9,7 +9,7 @@ CC.AAB
 
 Car Fuel Available: Z:100, O:100, B:100, C:100, A:100, P:100, Q:100
 
-Runtime: 0.0773317813873291 seconds
+Runtime: 0.08209800720214844 seconds
 Number of moves: 4
 Search path length: 49 states
 Solution path: Z left 1; O left 1; B up 1; A right 1; 

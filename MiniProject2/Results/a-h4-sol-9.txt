@@ -9,7 +9,7 @@ ZZBBCC
 
 Car Fuel Available: Z:100, B:100, C:100, D:100, E:100, A:100, O:100, F:100, G:100
 
-Runtime: 1.4114506244659424 seconds
+Runtime: 1.484586477279663 seconds
 Number of moves: 9
 Search path length: 317 states
 Solution path: A left 2; O up 2; F up 2; G left 4; D down 2; E down 2; O down 2; F down 1; A right 4; 

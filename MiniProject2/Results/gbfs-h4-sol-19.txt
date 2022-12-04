@@ -9,7 +9,7 @@ Initial board configuration: ..Z.BB..ZC...AACD.....D...E.FF..E...
 
 Car Fuel Available: Z:100, B:100, C:100, A:100, D:100, E:100, F:100
 
-Runtime: 0.2075941562652588 seconds
+Runtime: 0.21691250801086426 seconds
 Number of moves: 7
 Search path length: 92 states
 Solution path: C up 1; A left 1; E up 2; F left 4; D down 1; E down 1; A right 4; 

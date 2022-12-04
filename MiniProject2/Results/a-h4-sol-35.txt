@@ -9,7 +9,7 @@ AAOC.B
 
 Car Fuel Available: O:100, Z:100, B:100, A:100, C:100, D:100, E:100
 
-Runtime: 3.287778377532959 seconds
+Runtime: 3.6057071685791016 seconds
 Number of moves: 6
 Search path length: 573 states
 Solution path: B up 1; D left 3; C down 1; E left 1; O down 3; A right 4; 

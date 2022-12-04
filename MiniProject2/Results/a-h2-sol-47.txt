@@ -9,7 +9,7 @@ ZBAAOC
 
 Car Fuel Available: O:5, Z:6, B:100, C:100, A:100, D:100, P:100, E:100, F:100
 
-Runtime: 21.631741523742676 seconds
+Runtime: 23.005356788635254 seconds
 Number of moves: 11
 Search path length: 2274 states
 Solution path: C up 1; Z up 1; B up 1; A left 2; D down 1; E up 3; P up 3; F left 4; O down 3; P down 3; A right 4; 

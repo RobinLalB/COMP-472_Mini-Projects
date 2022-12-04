@@ -9,7 +9,7 @@ AA.BDP
 
 Car Fuel Available: Z:100, O:100, B:100, C:100, A:100, D:100, P:100, Q:100, E:100, F:100, G:100
 
-Runtime: 68.29153776168823 seconds
+Runtime: 78.80959892272949 seconds
 Number of moves: 14
 Search path length: 5497 states
 Solution path: A right 1; Z down 1; O left 2; Q left 1; B down 1; C left 3; B up 2; D up 2; Q right 2; E up 1; F left 1; G left 1; P down 1; A right 3; 

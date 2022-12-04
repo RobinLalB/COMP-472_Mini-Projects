@@ -9,7 +9,7 @@ BBC.DD
 
 Car Fuel Available: O:100, P:100, Z:100, A:100, B:100, C:100, D:100
 
-Runtime: 1.120145320892334 seconds
+Runtime: 1.152961254119873 seconds
 Number of moves: 8
 Search path length: 362 states
 Solution path: P down 1; Z left 2; A left 2; O right 3; C up 4; D left 2; P down 2; A right 4; 

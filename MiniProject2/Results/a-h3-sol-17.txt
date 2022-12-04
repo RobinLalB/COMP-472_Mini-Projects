@@ -9,7 +9,7 @@ AAOZBQ
 
 Car Fuel Available: O:100, P:100, Z:100, Q:100, A:100, B:100, R:100, C:100, D:100
 
-Runtime: 0.04443550109863281 seconds
+Runtime: 0.047586917877197266 seconds
 Number of moves: 8
 Search path length: 14 states
 Solution path: Q down 2; C left 1; O down 3; P left 2; B up 2; P left 1; Z up 1; A right 4; 

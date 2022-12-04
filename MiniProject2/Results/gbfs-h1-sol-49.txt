@@ -9,7 +9,7 @@ AABC..
 
 Car Fuel Available: Z:2, B:2, C:2, A:100, D:2
 
-Runtime: 0.010607481002807617 seconds
+Runtime: 0.011769533157348633 seconds
 Number of moves: 4
 Search path length: 8 states
 Solution path: C up 1; Z left 1; B up 1; A right 4; 
