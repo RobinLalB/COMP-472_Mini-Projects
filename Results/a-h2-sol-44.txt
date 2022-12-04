@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------
+Initial board configuration: ZZBBCDOOOECD.AAE.F..G..F..GPPP....HH
+
+!
+ZZBBCD
+OOOECD
+.AAE.F
+..G..F
+..GPPP
+....HH
+
+Car Fuel Available: Z:20, B:100, C:100, D:100, O:100, E:100, A:100, F:100, G:2, P:100, H:100
+
+ Sorry, could not solve the puzzle as specified.
+Error: no solution found
+Runtime: 438.877400636673 seconds--------------------------------------------------------------------------------

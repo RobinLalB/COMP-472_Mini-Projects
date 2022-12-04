@@ -1,0 +1,29 @@
+Initial board configuration: ....ZZ....O..AA.OB....OB.....C...DDC
+
+....ZZ
+....O.
+.AA.OB
+....OB
+.....C
+...DDC
+
+Car Fuel Available: Z:100, O:100, A:100, B:100, C:100, D:100
+
+Runtime: 0.06258296966552734 seconds
+Number of moves: 5
+Search path length: 18 states
+Solution path: Z left 2; B up 2; D left 1; O down 2; A right 3; 
+
+Z	left	2	98	..ZZ......O..AA.OB....OB.....C...DDC
+B	up	2	98	..ZZ.B....OB.AA.O.....O......C...DDC
+D	left	1	99	..ZZ.B....OB.AA.O.....O......C..DD.C
+O	down	2	98	..ZZ.B.....B.AA.......O.....OC..DDOC
+A	right	3	97	..ZZ.B.....B....AA....O.....OC..DDOC
+
+..ZZ.B
+.....B
+....AA
+....O.
+....OC
+..DDOC
+
